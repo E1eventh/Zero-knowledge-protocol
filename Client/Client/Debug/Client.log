@@ -1,0 +1,16 @@
+﻿  Client.cpp
+c:\users\nikita\desktop\rgz zi\client\client\header.h(47): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\nikita\desktop\rgz zi\client\client\header.h(71): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+c:\users\nikita\desktop\rgz zi\client\client\client.cpp(52): warning C4477: "sprintf": в строке форматирования "%ld" требуется аргумент типа "long", но вариативный аргумент "2" имеет тип "__int64"
+  c:\users\nikita\desktop\rgz zi\client\client\client.cpp(52): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\nikita\desktop\rgz zi\client\client\client.cpp(52): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\nikita\desktop\rgz zi\client\client\client.cpp(111): warning C4477: "sprintf": в строке форматирования "%ld" требуется аргумент типа "long", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\nikita\desktop\rgz zi\client\client\client.cpp(111): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\nikita\desktop\rgz zi\client\client\client.cpp(111): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\nikita\desktop\rgz zi\client\client\client.cpp(122): warning C4477: "sprintf": в строке форматирования "%ld" требуется аргумент типа "long", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\nikita\desktop\rgz zi\client\client\client.cpp(122): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\nikita\desktop\rgz zi\client\client\client.cpp(122): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\nikita\desktop\rgz zi\client\client\client.cpp(138): warning C4477: "sprintf": в строке форматирования "%ld" требуется аргумент типа "long", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\nikita\desktop\rgz zi\client\client\client.cpp(138): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\nikita\desktop\rgz zi\client\client\client.cpp(138): note: рекомендуется использовать "%I64d" в строке форматирования
+  Client.vcxproj -> C:\Users\Nikita\Desktop\RGZ ZI\Client\Debug\Client.exe
